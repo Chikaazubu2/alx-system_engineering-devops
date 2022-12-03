@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod -wx olleh.txt hello
+chmod--reference-olleh hello
