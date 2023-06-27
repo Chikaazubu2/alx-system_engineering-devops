@@ -1,0 +1,23 @@
+{
+	"WhoisRecord": {
+		"domainName": "globalcm-chika.tech",
+		"parseCode": 0,
+		"audit": {
+			"createdDate": "2023-06-27 15:19:03 UTC",
+			"updatedDate": "2023-06-27 15:19:03 UTC"
+		},
+		"dataError": "INCOMPLETE_DATA",
+		"registryData": {
+			"domainName": "globalcm-chika.tech",
+			"parseCode": 64,
+			"audit": {
+				"createdDate": "2023-06-27 15:19:03 UTC",
+				"updatedDate": "2023-06-27 15:19:03 UTC"
+			},
+			"dataError": "INCOMPLETE_DATA",
+			"whoisServer": "whois.nic.tech"
+		},
+		"domainAvailability": "AVAILABLE",
+		"domainNameExt": ".tech"
+	}
+}
